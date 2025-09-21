@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Contributing to large-scale open-source Projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **prathmeshaghor@gmail.com**
 
