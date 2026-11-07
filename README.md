@@ -1,7 +1,5 @@
 # Hi, I'm Prathmesh Aghor 👋
 
-### Software Engineer | AI/ML & Generative AI | Java Backend | Data Analytics
-
 Computer Engineering graduate from **Mumbai University** with an interest in building scalable software systems, intelligent AI applications, and data-driven solutions.
 
 I enjoy solving challenging problems, exploring emerging technologies, and developing practical applications that combine software engineering, machine learning, and analytics.
