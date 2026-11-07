@@ -183,8 +183,7 @@ Consistently practising Data Structures, Algorithms, and SQL to improve problem-
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prathmesh717?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Statistics"/>
+
 </p>
 
 **Practice Areas**
