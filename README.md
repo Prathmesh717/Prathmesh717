@@ -1,239 +1,263 @@
-# 👋 Hi, I'm Prathmesh Aghor
+# Hi, I'm Prathmesh Aghor 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Engineering+Graduate;Software+Engineering+%7C+AI%2FML+%7C+Data+Analytics;Java+Backend+%7C+Machine+Learning+%7C+SQL;Building+Intelligent+and+Scalable+Solutions" alt="Typing SVG" />
-</p>
+### Software Engineer | AI/ML & Generative AI | Java Backend | Data Analytics
 
-<p align="center">
-  <a href="https://github.com/Prathmesh717">
-    <img src="https://komarev.com/ghpvc/?username=Prathmesh717&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Prathmesh717?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-JAVA%20%7C%20AI%2FML%20%7C%20QA%20%7C%20DATA%20%7C%20BA-2ea44f?style=for-the-badge" alt="Open to Opportunities" />
-</p>
+Computer Engineering graduate from **Mumbai University** with an interest in building scalable software systems, intelligent AI applications, and data-driven solutions.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/INTERESTS-Insurance%20%7C%20BFSI%20%7C%20FinTech-6f42c1?style=for-the-badge" alt="Industry Interests" />
-</p>
+I enjoy solving challenging problems, exploring emerging technologies, and developing practical applications that combine software engineering, machine learning, and analytics.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Prathmesh717-181717?style=for-the-badge&logo=github)](https://github.com/Prathmesh717)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathmesh-aghor-165838247/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Prathmesh717-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prathmesh717/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshaghor@gmail.com)
+
+[![Open To](https://img.shields.io/badge/Open%20To-Java%20%7C%20AI%2FML%20%7C%20QA%20%7C%20Data%20%7C%20BA-blue?style=for-the-badge)](#)
+[![Domain](https://img.shields.io/badge/Domain-Insurance%20%7C%20BFSI%20%7C%20FinTech-green?style=for-the-badge)](#)
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Engineering graduate passionate about building intelligent software systems and solving real-world business problems through technology.
-
-My interests span **Software Engineering, Java Backend Development, Artificial Intelligence, Machine Learning, Data Analytics, and Quality Engineering**. I enjoy combining technical problem-solving with analytical thinking to develop reliable, scalable, and data-driven solutions.
-
-- 🎓 Computer Engineering Graduate | Mumbai University
-- 💻 Exploring Java Backend Development and Software Engineering
-- 🤖 Building Machine Learning and Explainable AI solutions
-- 📊 Interested in Data Analytics, SQL, and Business Intelligence
-- 🏦 Exploring technology applications in Insurance, BFSI, and FinTech
-- 🔬 IEEE-published researcher in Machine Learning
-- 🧪 Interested in Software Testing, Quality Engineering, and Model Governance
-- ☁️ Exploring Cloud Computing and Cloud-Native Technologies
-- 📚 Currently exploring Google Advanced Data Analytics
-- 🤝 Open to meaningful collaborations and open-source contributions
-- ⚡ Fun fact: I enjoy breaking things in staging just to automate fixing them better!
+- 🎓 Computer Engineering graduate from **University of Mumbai**.
+- 💡 Interested in Software Engineering, AI/ML, Generative AI, Java Backend Development, and Data Analytics.
+- 🤖 Exploring LLMs, RAG architectures, multi-agent systems, and intelligent automation.
+- ☕ Building backend applications using Java, Spring Boot, REST APIs, and SQL databases.
+- 📊 Interested in transforming complex datasets into actionable insights.
+- 🔬 IEEE-published researcher in Machine Learning.
+- 🏆 Recognized in national-level technical competitions.
+- 🧩 Actively strengthening Data Structures & Algorithms through LeetCode.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+**Programming Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" alt="Programming Languages" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🌐 Backend & Frameworks
+**Backend & Frameworks**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,fastapi,django,nodejs" alt="Frameworks" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-### 🤖 Artificial Intelligence & Machine Learning
+**AI, Machine Learning & Data Science**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SHAP-Explainable_AI-5A45FF?style=flat" alt="SHAP" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 📊 Data Analytics & Business Intelligence
+**Generative AI & Intelligent Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Business_Analysis-0052CC?style=flat&logo=jira&logoColor=white" alt="Business Analysis" />
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
 
-### 🗄️ Databases & Cloud Technologies
+**AI Governance & Explainability**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,gcp,docker,kubernetes" alt="Databases and Cloud" />
-</p>
+![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=flat-square)
+![PSI Drift Monitoring](https://img.shields.io/badge/PSI_Drift_Monitoring-6A5ACD?style=flat-square)
+![Model Registry](https://img.shields.io/badge/Model_Registry-1C3C3C?style=flat-square)
+![Model Validation](https://img.shields.io/badge/Model_Validation-00599C?style=flat-square)
+![Model Governance](https://img.shields.io/badge/Model_Governance-412991?style=flat-square)
 
-### 🧪 Quality Engineering & Development Tools
+**Databases, Cloud & DevOps**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+**Analytics, Testing & Tools**
 
-## 🏆 Achievements & Recognition
-
-- 🥇 **1st Runner-Up – IDEAZ Competition, IIT Roorkee.**
-- 📚 **IEEE-Published Researcher** – Research paper titled *Morse Code Detection Using Machine Learning*.
-- 🌏 **International Research Presentation** – Presented research at the 2026 AMLDS Conference, Kansai University, Osaka, Japan.
-- 🎓 **Virtual Internship & Training Programs** – Microsoft, IBM, and SAP through Edunet Foundation and TechSaksham.
-
----
-
-## 🔬 Research & Publications
-
-### Morse Code Detection Using Machine Learning
-
-Research focused on applying machine learning techniques to detect and interpret Morse code.
-
-- 📖 Published in IEEE Xplore.
-- 🌏 Presented at the 2026 AMLDS Conference.
-- 🏛️ Kansai University, Osaka, Japan.
-- 🔗 [Explore my GitHub Research Repository](https://github.com/Prathmesh717/Morse-Code-Detection-Using-Machine-Learning)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-Projects demonstrating my interests across Software Engineering, Artificial Intelligence, Data Analytics, Insurance Technology, and Business Analysis.
+### 1. Sentinel RAG – Self-Correcting Hybrid Retrieval System
+**Technologies:** Python, FastAPI, LangChain, FAISS, BM25, RAG
 
-### 📊 1. Customer Acquisition Propensity & Explainability Engine
+- Developed a hybrid retrieval pipeline combining semantic and keyword search.
+- Implemented Reciprocal Rank Fusion and cross-encoder reranking.
+- Explored self-correcting retrieval using LLM grading and HyDE.
+- Evaluated retrieval performance using a curated question-answer dataset.
 
-**Domain:** AI/ML | Data Science | Business Analysis
+[Repository](https://github.com/Prathmesh717/Sentinel-RAG-AI)
 
-An end-to-end machine learning project focused on predicting customer acquisition propensity and explaining model predictions.
+### 2. AI-Powered Network Intrusion Detection System
+**Technologies:** Python, Machine Learning, Random Forest, Isolation Forest, SHAP, RAG
 
-- Predictive machine learning pipeline.
-- SHAP-based model explainability.
-- Population Stability Index (PSI) drift monitoring.
-- Model registry and governance documentation.
-- Business Requirements Document (BRD) and User Acceptance Testing (UAT).
+- Built a network intrusion detection pipeline using machine learning.
+- Combined anomaly detection with explainability techniques.
+- Integrated retrieval-based threat intelligence using MITRE ATT&CK.
+- Designed a multi-agent workflow for detection, threat intelligence, and response.
 
-🔗 [View Repository](https://github.com/Prathmesh717/customer-acquisition-propensity-engine)
+[Repository](https://github.com/Prathmesh717/AI-Powered-NIDS)
 
-### 🏥 2. Life Insurance Experience Study Engine
+### 3. PayNexa – Multi-Currency Payment Engine
+**Technologies:** Java, Spring Boot, PostgreSQL, Redis, REST APIs
 
-**Domain:** Insurance | Actuarial Analytics | QA
+- Designed a backend payment processing system with transaction state management.
+- Implemented idempotency to prevent duplicate payment processing.
+- Explored concurrency-safe database operations and transactional outbox patterns.
+- Focused on reliability, consistency, and fault tolerance.
 
-An analytical project exploring mortality and lapse experience in life insurance, complemented by independent business analysis and quality assurance documentation.
+[Repository](https://github.com/Prathmesh717/paynexa-multi-currency-payment-engine)
 
-- Mortality and lapse experience analysis.
-- Data quality validation and fail-fast controls.
-- Business requirements documentation.
-- UAT planning and QA documentation.
+### 4. Customer Acquisition Propensity & Explainability Engine
+**Technologies:** Python, scikit-learn, SHAP, Streamlit, PSI Drift Monitoring
 
-🔗 [View Original Repository](https://github.com/kangdan-act/Life-Insurance-Experience-Study)
+- Built an end-to-end propensity platform with SHAP explainability and PSI drift monitoring.
+- Implemented a model registry, data quality gates, and governance checklist.
+- Authored a BRD and a 61-test-case UAT plan for model validation.
+- Delivered a self-service dashboard for model health and segment-level performance.
 
-### 📈 3. Insurance Policy Lifecycle Analysis
+[Repository](https://github.com/Prathmesh717/customer-acquisition-propensity-engine)
 
-**Domain:** SQL | Data Analytics | Business Intelligence
+### 5. Morse Code Detection Using Machine Learning
+**Technologies:** Python, OpenCV, MediaPipe, CNN, Machine Learning
 
-A data analytics project focused on understanding insurance policy lifecycle trends and generating actionable business insights.
+- Developed a real-time Morse code detection system using visual hand gestures.
+- Explored machine learning and deep learning approaches for gesture classification.
+- Evaluated SVM, CNN, and CNN-LSTM models.
+- Achieved 95.4% reported accuracy in the research evaluation.
 
-- Large-scale SQL data analysis.
-- Star schema data modelling.
-- Power BI dashboards and analytical views.
-- Data validation and debugging documentation.
-- Business-oriented reporting and insights.
+[Repository](https://github.com/Prathmesh717/Morse-Code-Detection-Using-Machine-Learning)
 
-### 🏗️ 4. PayNexa – Multi-Currency Payment Engine
+### 6. Airbnb Clone – Backend API
+**Technologies:** Java, Spring Boot, Spring Data JPA, SQL, REST APIs
 
-**Domain:** Java | Spring Boot | Backend Engineering
+- Developed backend functionality for users, property listings, and bookings.
+- Designed relational database entities and RESTful endpoints.
+- Focused on API design, data persistence, and backend development practices.
 
-A backend payment system concept focused on reliable transaction processing and scalable API design.
+[Repository](https://github.com/Prathmesh717/Airbnb-Clone-Backend-API)
 
-- Java and Spring Boot backend architecture.
-- PostgreSQL database integration.
-- Redis caching.
-- Idempotency and transaction reliability.
-- Transactional Outbox Pattern.
+### 7. Faculty Workload Scheduling – Requirements & UAT
+**Technologies:** BRD, UAT, Process Mapping, Power BI
 
-### 🤖 5. Morse Code Detection Using Machine Learning
+- Authored a Business Requirements Document (BRD) and mapped As-Is vs. To-Be processes for a workload scheduling system.
+- Defined UAT test cases and validated dashboard outputs against requirements.
+- Logged and tracked data quality defects to resolution.
 
-**Domain:** Artificial Intelligence | Machine Learning | Research
+[Repository](YOUR_FACULTY_WORKLOAD_REPO_URL)
 
-An intelligent Morse code detection and interpretation project supported by published academic research.
+### 8. Life Insurance Experience Study Engine
+**Technologies:** Python, SQL, Streamlit, Docker, QA Controls
 
-- Machine learning-based Morse code detection.
-- Signal processing and pattern recognition.
-- Intelligent Morse code translation.
-- IEEE-published research.
+- Forked and BA-ified an actuarial experience study engine.
+- Added a BRD, UAT plan, and governance checklist.
+- Validated 19 fail-fast QA controls for mortality and lapse calculations.
 
-🔗 [View Repository](https://github.com/Prathmesh717/Morse-Code-Detection-Using-Machine-Learning)
-
-### 🧩 6. Faculty Workload Scheduling – Requirements & UAT
-
-**Domain:** Business Analysis | Quality Assurance | Process Modelling
-
-A business analysis-oriented project focused on documenting requirements and validating a faculty workload scheduling solution.
-
-- Business Requirements Document (BRD).
-- As-Is and To-Be process mapping.
-- Functional requirements documentation.
-- UAT test cases and issue tracking.
-- Requirement validation and process improvement.
-
-🔗 [View Reference Repository](https://github.com/harshdalwadi/faculty-workload-scheduling)
+[Repository](https://github.com/kangdan-act/Life-Insurance-Experience-Study)
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 LeetCode & Problem Solving
+
+Consistently practising Data Structures, Algorithms, and SQL to improve problem-solving and coding skills.
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prathmesh717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh717&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh717&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathmesh-aghor-165838247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prathmeshaghor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Prathmesh717">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://leetcode.com/u/Prathmesh717/">
+    <img src="https://img.shields.io/badge/LeetCode-Prathmesh717-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathmesh717?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Statistics"/>
+</p>
+
+**Practice Areas**
+- Data Structures & Algorithms using Java
+- SQL and database queries
+- Arrays, Strings, Linked Lists, Trees, and Graphs
+- Searching, Sorting, Recursion, and Dynamic Programming
+- Coding challenges and contest participation
+
+[View LeetCode Profile →](https://leetcode.com/u/Prathmesh717/)
+
 ---
 
+## 🏆 Achievements & Recognition
+
+- 🥇 **1st Runner-Up** – IDEAZ Paper Presentation, Cognizance 2026, IIT Roorkee.
+- 🥈 **2nd Runner-Up** – FAULTLINE Case Study, Cognizance 2026, IIT Roorkee.
+- 🥈 **2nd Runner-Up** – IdeaSprint, Technovate'26, RAIT.
+- 📄 **IEEE Publication** – Research paper on Morse Code Detection Using Machine Learning.
+- 🎤 Presented research at the **2026 AMLDS Conference, Kansai University, Osaka, Japan**.
+
+---
+
+## 📚 Research & Publications
+
+**Morse Code Detection Using Machine Learning**
+
+- Research focused on machine learning techniques for Morse code detection.
+- Published in the proceedings of the 2026 AMLDS Conference.
+- Presented at Kansai University, Osaka, Japan.
+- Published and available on IEEE Xplore.
+
+[Find my research on IEEE Xplore](https://ieeexplore.ieee.org/)
+
+---
+
+## 📜 Certifications & Learning
+
+- Google Advanced Data Analytics
+- Google Business Intelligence
+- Oracle Cloud Generative AI Professional
+- Oracle Cloud Infrastructure DevOps Professional
+- Google IT Automation with Python
+- Google Project Management
+- Google UX Design
+- Accenture Software Engineering Job Simulation
+- BCGX Generative AI Job Simulation
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <b>💡 Building Today. Innovating Tomorrow.</b>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathmesh717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh717&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, explore my repositories and consider giving them a star!
+  <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, researchers, and professionals working in software engineering, AI/ML, Generative AI, backend development, and data analytics.
+
+- **GitHub:** https://github.com/Prathmesh717
+- **LinkedIn:** https://www.linkedin.com/in/prathmesh-aghor-165838247/
+- **Email:** prathmeshaghor@gmail.com
+
+<p align="center">
+  <i>Building, learning, experimenting, and improving — one project at a time.</i>
 </p>
