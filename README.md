@@ -238,8 +238,12 @@ Consistently practising Data Structures, Algorithms, and SQL to improve problem-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathmesh717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh717&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 ---
 
