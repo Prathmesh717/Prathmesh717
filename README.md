@@ -245,7 +245,11 @@ Consistently practising Data Structures, Algorithms, and SQL to improve problem-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh717&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 ---
 
 ## 🤝 Let's Connect
