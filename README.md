@@ -9,8 +9,8 @@ I enjoy solving challenging problems, exploring emerging technologies, and devel
 [![LeetCode](https://img.shields.io/badge/LeetCode-Prathmesh717-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prathmesh717/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshaghor@gmail.com)
 
-[![Open To](https://img.shields.io/badge/Open%20To-Java%20%7C%20AI%2FML%20%7C%20QA%20%7C%20Data%20%7C%20BA-blue?style=for-the-badge)](#)
-[![Domain](https://img.shields.io/badge/Domain-Insurance%20%7C%20BFSI%20%7C%20FinTech-green?style=for-the-badge)](#)
+[![Open To](https://img.shields.io/badge/Open%20To-Java%20%7C%20AI%2FML%20%7C%20Data%20%7C%20BA-blue?style=for-the-badge)](#)
+
 
 ---
 
@@ -160,7 +160,7 @@ I enjoy solving challenging problems, exploring emerging technologies, and devel
 - Defined UAT test cases and validated dashboard outputs against requirements.
 - Logged and tracked data quality defects to resolution.
 
-[Repository](YOUR_FACULTY_WORKLOAD_REPO_URL)
+[Repository]()
 
 ### 8. Life Insurance Experience Study Engine
 **Technologies:** Python, SQL, Streamlit, Docker, QA Controls
@@ -169,7 +169,7 @@ I enjoy solving challenging problems, exploring emerging technologies, and devel
 - Added a BRD, UAT plan, and governance checklist.
 - Validated 19 fail-fast QA controls for mortality and lapse calculations.
 
-[Repository](https://github.com/kangdan-act/Life-Insurance-Experience-Study)
+[Repository]()
 
 ---
 
@@ -217,7 +217,7 @@ Consistently practising Data Structures, Algorithms, and SQL to improve problem-
 - Presented at Kansai University, Osaka, Japan.
 - Published and available on IEEE Xplore.
 
-[Find my research on IEEE Xplore](https://ieeexplore.ieee.org/)
+[Find my research on IEEE Xplore](https://ieeexplore.ieee.org/document/11724233)
 
 ---
 
