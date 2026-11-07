@@ -237,20 +237,17 @@ Consistently practising Data Structures, Algorithms, and SQL to improve problem-
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathmesh717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh717&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+## 🔥 Contribution Heatmap
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathmesh717&theme=tokyonight" alt="Profile Details Heatmap" />
 </p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh717&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
----
 
 ## 🤝 Let's Connect
 
