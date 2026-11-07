@@ -177,4 +177,63 @@ An intelligent Morse code detection and interpretation project supported by publ
 
 🔗 [View Repository](https://github.com/Prathmesh717/Morse-Code-Detection-Using-Machine-Learning)
 
-### 🧩 6. Faculty
+### 🧩 6. Faculty Workload Scheduling – Requirements & UAT
+
+**Domain:** Business Analysis | Quality Assurance | Process Modelling
+
+A business analysis-oriented project focused on documenting requirements and validating a faculty workload scheduling solution.
+
+- Business Requirements Document (BRD).
+- As-Is and To-Be process mapping.
+- Functional requirements documentation.
+- UAT test cases and issue tracking.
+- Requirement validation and process improvement.
+
+🔗 [View Reference Repository](https://github.com/harshdalwadi/faculty-workload-scheduling)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prathmesh717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh717&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prathmesh717&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh717&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathmesh-aghor-165838247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prathmeshaghor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Prathmesh717">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Building Today. Innovating Tomorrow.</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, explore my repositories and consider giving them a star!
+</p>
