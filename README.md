@@ -9,7 +9,6 @@ I enjoy solving challenging problems, exploring emerging technologies, and devel
 [![LeetCode](https://img.shields.io/badge/LeetCode-Prathmesh717-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prathmesh717/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshaghor@gmail.com)
 
-[![Open To](https://img.shields.io/badge/Open%20To-Java%20%7C%20AI%2FML%20%7C%20Data%20%7C%20BA-blue?style=for-the-badge)](#)
 
 
 ---
